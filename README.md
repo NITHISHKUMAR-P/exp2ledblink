@@ -1,5 +1,6 @@
 # exp2ledblink
 ## CODE:
+Don't write comment lines
 ```
 #include <lpc214x.h>
 
